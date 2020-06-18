@@ -1,7 +1,7 @@
 // Json file with input data
 // We had to put original object in square brackets 
-const url = "https://zunicd.github.io/Belly-Button-Biodiversity-Dashboard/data/samples.json";
-// const url = "../../data/samples.json";
+// const url = "https://zunicd.github.io/Belly-Button-Biodiversity-Dashboard/data/samples.json";
+const url = "../../data/samples.json";
 
 
 // Fetch data from json file
